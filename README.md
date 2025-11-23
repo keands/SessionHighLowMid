@@ -17,7 +17,7 @@ A Quantower custom indicator that visualizes **High**, **Low**, and **Mid (avera
 ## Installation
 
 1. Download the `SessionHighLowMid.zip` file.
-2. Unzip to {QUANTOWER_INSTALLATION_PATH]\Settings\Scripts\Indicators\
+2. Unzip to `{QUANTOWER_INSTALLATION_PATH]\Settings\Scripts\Indicators\`
 3. Select `SessionHighLowMid` into your custom indicators in Quantower
 
 ## Usage
