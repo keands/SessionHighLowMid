@@ -2,7 +2,7 @@ name: Build & Release C# DLL
 
 on:
   release:
-    types: [created]
+    types: [published]
 
 jobs:
   build-and-release:
