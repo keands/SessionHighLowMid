@@ -6,9 +6,9 @@ A Quantower custom indicator that visualizes **High**, **Low**, and **Mid (avera
 
 - Plots the High, Low, and Mid lines for each session directly on your chart
 - **Supported sessions:**  
-  - Asian: 23:00–07:00 UTC  
-  - London: 07:00–16:00 UTC  
-  - US PM: 12:00–21:00 UTC
+  - Asian: 23:00â€“07:00 UTC  
+  - London: 07:00â€“16:00 UTC  
+  - US PM: 12:00â€“21:00 UTC
 - Easily toggle which sessions to display
 - Configurable colors and line styles for each session and level
 - Real-time calculation of session levels, automatically resets at each new session
@@ -16,10 +16,9 @@ A Quantower custom indicator that visualizes **High**, **Low**, and **Mid (avera
 
 ## Installation
 
-1. Download the `SessionHighLowMid.cs` file.
-2. Open Quantower Terminal and navigate to the **Script Editor**.
-3. Import `SessionHighLowMid.cs` into your custom indicators.
-4. Compile, then add the indicator to your desired chart.
+1. Download the `SessionHighLowMid.zip` file.
+2. Unzip to {QUANTOWER_INSTALLATION_PATH]\Settings\Scripts\Indicators\
+3. Select `SessionHighLowMid` into your custom indicators in Quantower
 
 ## Usage
 
